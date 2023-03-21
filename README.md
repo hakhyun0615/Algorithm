@@ -1,1 +1,1 @@
-# This_Is_CodingTest
+# Algorithm
