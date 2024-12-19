@@ -1,5 +1,5 @@
 # Algorithm Concepts and Problem-Solving
-This document is summarizes key algorithm concepts and solutions to problems based on the book “This is Coding Test with Python”.
+This document is summarizes key algorithm concepts and solutions to problems based on the book "이것이 취업을 위한 코딩 테스트다 with 파이썬".
 
 ## Contents
 ### Greedy
