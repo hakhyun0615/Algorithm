@@ -3,7 +3,7 @@ This document is summarizes key algorithm concepts and solutions to problems bas
 
 ## Contents
 ### Greedy
-- Example
+- Greedy Example
 - The Law of Large Numbers
 - Number Card Game
 - Until It Becomes 1
@@ -14,8 +14,8 @@ This document is summarizes key algorithm concepts and solutions to problems bas
 - Choosing Bowling Balls
 - Muji’s Mukbang Live
 ### Implementation
-- Example 1
-- Example 2
+- Implementation Example 1
+- Implementation Example 2
 - Knight of the Royal Palace
 - Game Development
 - Lucky Straight
@@ -50,14 +50,14 @@ This document is summarizes key algorithm concepts and solutions to problems bas
 - Element Swap Between Two Arrays
 ### Binary Search
 - Sequential Search
-- Binary Search
+- Binary Search Example
 - Tree Data Structure
 - Binary Search Tree
 - Handling Large Data Input
 - Finding Components
 - Making Rice Cake Sticks
 ### Dynamic Programming
-- Dynamic Programming
+- Dynamic Programming Example
 - Make It One
 - Ant Warrior
 - Floor Construction
