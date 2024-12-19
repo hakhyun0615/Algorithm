@@ -1,4 +1,4 @@
-# Algorithm Concepts and Problem-Solving
+# Algorithm Concepts and Problem-Solving
 This document is summarizes key algorithm concepts and solutions to problems based on the book “This is Coding Test with Python”.
 
 ## Contents
